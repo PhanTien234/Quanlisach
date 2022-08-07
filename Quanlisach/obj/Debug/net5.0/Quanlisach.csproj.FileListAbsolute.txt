@@ -1,0 +1,16 @@
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\bin\Debug\net5.0\Quanlisach.exe
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\bin\Debug\net5.0\Quanlisach.deps.json
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\bin\Debug\net5.0\Quanlisach.runtimeconfig.json
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\bin\Debug\net5.0\Quanlisach.runtimeconfig.dev.json
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\bin\Debug\net5.0\Quanlisach.dll
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\bin\Debug\net5.0\ref\Quanlisach.dll
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\bin\Debug\net5.0\Quanlisach.pdb
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.csproj.AssemblyReference.cache
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.AssemblyInfoInputs.cache
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.AssemblyInfo.cs
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.csproj.CoreCompileInputs.cache
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.dll
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\ref\Quanlisach.dll
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.pdb
+C:\Users\PHANMINHTIEN\source\repos\Quanlisach\Quanlisach\obj\Debug\net5.0\Quanlisach.genruntimeconfig.cache
